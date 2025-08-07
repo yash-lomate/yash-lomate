@@ -17,18 +17,14 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-</p>
+
+| 🔧 Area               | 🧩 Tools & Frameworks                                                                 |
+|-----------------------|--------------------------------------------------------------------------------------|
+| 💻 **Languages**       | Python 🐍 · JavaScript 🟨 · TypeScript 🔷 · HTML 🔤 · CSS 🎨                          |
+| ⚛️ **Frontend**        | React ⚛️ · React Native 📱 · Tailwind CSS 💨                                        |
+| 🧠 **AI & LLMs**       | LangChain 🧩 · OpenAI GPT 🧠 · LLMs 📚                                               |
+| ☁️ **Cloud & DevOps**  | Azure ☁️ · Firebase 🔥 · GitHub Actions ⚙️                                          |
+| 🛠️ **Tools & Platforms** | Git 🔧 · Linux 🐧 · VS Code 🖋️ · Postman 📬  
 
 ---
 
