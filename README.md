@@ -1,46 +1,55 @@
-<h1 align="center">Hey there! 👋 I'm Yash Lomate</h1>
-<h3 align="center">AI Enthusiast • GenAI Developer • Cloud Explorer ☁️</h3>
+<!-- Profile Header -->
+<h1 align="center">✨ Hey, I'm Yash Lomate ✨</h1>
+<h3 align="center">AI Engineer | Multi-Agent Systems Builder | Creative Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Building+AI-powered+apps+with+LangChain;Cloud+native+AI+systems+in+production;React+%7C+LangChain+%7C+Azure+%7C+LLMs;Welcome+to+my+world+of+code+%26+creation!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+Full-Stack+Developer;Multi-Agent+Systems+Architect;Cloud+%26+Data+Driven+Solutions" alt="Typing Animation" />
 </p>
 
 ---
 
-### 🧠 About Me
-- 💼 Working on: RAG-based systems + multi-agent LLM apps  
-- 🌱 Currently learning: LangGraph, AI workflows, OpenAI Assistants API  
-- 🌐 Personal site: [yashlomate.dev](https://yashlomate.dev) *(Update if needed)*  
-- ✍🏽 Writing about AI, cloud & dev life  
+## 🚀 About Me
+💡 Passionate about building **AI-powered systems** that merge creativity with functionality.  
+🛠 Currently crafting **multi-agent finance AI** and **real-time conversational bots** with Azure OpenAI.  
+🌱 Learning & experimenting with **LangChain**, **cloud-native AI**, and **autonomous agents**.  
+🎯 Goal: To make AI solutions **impactful**, **efficient**, and **beautifully engineered**.
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-
-| 🔧 Area               | 🧩 Tools & Frameworks                                                                 |
-|-----------------------|--------------------------------------------------------------------------------------|
-| 💻 **Languages**       | Python 🐍 · JavaScript 🟨 · TypeScript 🔷 · HTML 🔤 · CSS 🎨                          |
-| ⚛️ **Frontend**        | React ⚛️ · React Native 📱 · Tailwind CSS 💨                                        |
-| 🧠 **AI & LLMs**       | LangChain 🧩 · OpenAI GPT 🧠 · LLMs 📚                                               |
-| ☁️ **Cloud & DevOps**  | Azure ☁️ · Firebase 🔥 · GitHub Actions ⚙️                                          |
-| 🛠️ **Tools & Platforms** | Git 🔧 · Linux 🐧 · VS Code 🖋️ · Postman 📬  
-
----
-
-### 📊 GitHub Stats
-
+## 🧰 Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashlomate&show_icons=true&hide=cpp&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashlomate&layout=compact&hide=c%2B%2B&theme=tokyonight" alt="Top Languages" height="160"/>
+  <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,azure,git,github,html,css,tailwind,vscode,docker&theme=dark" />
 </p>
 
 ---
 
-### 🧩 Fun Facts
-- 🧪 I love experimenting with AI architectures & agentic workflows  
-- 💡 I break things to learn how they work  
-- 🛠 Actively contributing to open-source LLM tooling  
+## 📈 GitHub Stats
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YashLomate&show_icons=true&theme=radical" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YashLomate&theme=radical" />
+</p>
 
 ---
 
+## 🏆 Achievements & Highlights
+- 🏗 Built **session-based AI chatbots** with Azure OpenAI + LangChain.
+- 💹 Developed **multi-agent AI system** for finance automation.
+- ☁️ Integrated **Azure Cognitive Services** for speech & vision.
+- 📚 Guided students on **cloud computing & AI**.
+
+---
+
+## 📬 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/YashLomate"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yashlomate@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/YashLomate"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="200">
+</p>
+
+<p align="center">⭐ If you like what you see, don't forget to star my repositories! ⭐</p>
