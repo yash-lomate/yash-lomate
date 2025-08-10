@@ -1,52 +1,55 @@
-<!-- Liquid Glass Aesthetic GitHub README -->
+<!-- Profile Header -->
+<h1 align="center">✨ Hey, I'm Yash Lomate ✨</h1>
+<h3 align="center">AI Engineer | Multi-Agent Systems Builder | Creative Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hey+There+👋;Welcome+to+My+GitHub+🚀;Let's+Build+Something+Awesome!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+Full-Stack+Developer;Multi-Agent+Systems+Architect;Cloud+%26+Data+Driven+Solutions" alt="Typing Animation" />
 </p>
-
-<!-- Glass Container -->
-<div style="
-  background: rgba(255, 255, 255, 0.07);
-  border-radius: 20px;
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  backdrop-filter: blur(10px);
-  -webkit-backdrop-filter: blur(10px);
-  padding: 20px;
-  text-align: center;
-  max-width: 800px;
-  margin: auto;
-  box-shadow: 0 4px 30px rgba(0,0,0,0.2);
-">
-
-<h1 style="color: #00f7ff; font-family: 'Segoe UI', sans-serif;">✨ About Me ✨</h1>
-<p style="color: #e0f7fa; font-size: 16px;">
-I'm a passionate developer who loves crafting sleek UIs, building AI-powered tools, and experimenting with futuristic designs.
-</p>
-
-<h2 style="color: #00f7ff;">🛠 Tech Stack</h2>
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,react,azure,git,github,vscode" />
-</p>
-
-<h2 style="color: #00f7ff;">📊 GitHub Stats</h2>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00f7ff&icon_color=00f7ff&text_color=e0f7fa" />
-</p>
-
-<h2 style="color: #00f7ff;">🌐 Connect With Me</h2>
-<p>
-  <a href="https://linkedin.com/in/YOURUSERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00f7ff?style=for-the-badge&logo=linkedin&logoColor=black" />
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-00f7ff?style=for-the-badge&logo=gmail&logoColor=black" />
-  </a>
-</p>
-
-</div>
 
 ---
 
-<p align="center" style="color: #999;">
-  💎 Designed with a touch of <strong>Liquid Glass</strong> magic 💎
+## 🚀 About Me
+💡 Passionate about building **AI-powered systems** that merge creativity with functionality.  
+🛠 Currently crafting **multi-agent finance AI** and **real-time conversational bots** with Azure OpenAI.  
+🌱 Learning & experimenting with **LangChain**, **cloud-native AI**, and **autonomous agents**.  
+🎯 Goal: To make AI solutions **impactful**, **efficient**, and **beautifully engineered**.
+
+---
+
+## 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,azure,git,github,html,css,tailwind,vscode,docker&theme=dark" />
 </p>
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YashLomate&show_icons=true&theme=radical" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YashLomate&theme=radical" />
+</p>
+
+---
+
+## 🏆 Achievements & Highlights
+- 🏗 Built **session-based AI chatbots** with Azure OpenAI + LangChain.
+- 💹 Developed **multi-agent AI system** for finance automation.
+- ☁️ Integrated **Azure Cognitive Services** for speech & vision.
+- 📚 Guided students on **cloud computing & AI**.
+
+---
+
+## 📬 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/YashLomate"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yashlomate@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/YashLomate"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="200">
+</p>
+
+<p align="center">⭐ If you like what you see, don't forget to star my repositories! ⭐</p>
