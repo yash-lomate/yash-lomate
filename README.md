@@ -3,7 +3,7 @@
 <h3 align="center">AI Engineer | Multi-Agent Systems Builder | Creative Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+Full-Stack+Developer;Multi-Agent+Systems+Architect;Cloud+%26+Data+Driven+Solutions" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=AI+Engineer;Multi-Agent+Systems;Cloud+%26+Data+Driven+Solutions" alt="Typing Animation" />
 </p>
 
 ---
