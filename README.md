@@ -31,9 +31,22 @@
 
 ---
 
+## 🔍 RAG Systems & Projects
+Building intelligent systems with **Retrieval-Augmented Generation** to enhance AI responses with real-time knowledge.
+
+### Key Features:
+- 📄 **Document Processing**: Vector embeddings with FAISS/Pinecone for efficient retrieval
+- 🧠 **LLM Integration**: Seamless integration with GPT-4, Azure OpenAI, and open-source models
+- 🔗 **LangChain Pipelines**: Custom chains for context-aware responses
+- 💬 **Conversational RAG**: Memory-enabled chatbots with document context
+- 🎯 **Domain-Specific Solutions**: Finance, legal, and technical documentation Q&A
+
+---
+
 ## 🏆 Achievements & Highlights
 - 🏗 Built **session-based AI chatbots** with Azure OpenAI + LangChain.
 - 💹 Developed **multi-agent AI system** for finance automation.
+- 🔍 Implemented **RAG (Retrieval-Augmented Generation)** systems for intelligent document Q&A.
 - ☁️ Integrated **Azure Cognitive Services** for speech & vision.
 - 📚 Guided students on **cloud computing & AI**.
 
