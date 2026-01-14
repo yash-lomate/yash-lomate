@@ -113,24 +113,6 @@ class AIResearcher:
 
 ---
 
-## 💼 Professional Experience
-
-### 🚀 Speed Tech | R&D Intern (Oct 2024 - Apr 2025)
-**Generative AI & Multi-Agent Systems**
-- Designed and fine-tuned **RAG models** using TensorFlow, PyTorch, and OpenAI APIs
-- Architected **multi-agent AI system** processing **10K+ daily transactions**
-- Implemented semantic vector search and AI-driven data pipelines
-- Collaborated with 5-member cross-functional team (ML engineers, data engineers, product)
-- Gathered client requirements and incorporated feedback into model improvements
-
-### ☁️ Thyssenkrupp Industrial Solutions | Cloud Engineering Intern (Feb - Jul 2023)
-**Cloud Infrastructure & DevOps**
-- Automated cloud resource provisioning across 3 global regions
-- Reduced deployment time through streamlined resource provisioning and MFA integration
-- Worked with cloud engineers on provisioning processes and risk management
-
----
-
 ## 🏆 Featured Projects
 
 <table>
@@ -221,7 +203,7 @@ graph TD
 
 ---
 
-## 📈 2025 Goals & Learning Path
+## 📈 2026 Goals & Learning Path
 
 🎓 **Current Academic Focus** (Northeastern University):
 - Applied Programming & Data Processing for AI
@@ -238,20 +220,6 @@ graph TD
 - Publish second research paper
 - Build production-grade MLOps pipelines
 - Explore **Graph Neural Networks** (GNNs)
-
----
-
-## 🎓 Education & Certifications
-
-### 🏛️ Education
-- **MS in Artificial Intelligence** | Northeastern University (Sep 2025 - Present) | GPA: 3.8/4.0
-- **BE in Computer Engineering** | D.Y. Patil College of Engineering (2020-2024) | GPA: 3.55/4.0
-
-### 📜 Certifications
-- ✅ Generative AI Fundamentals - **Databricks**
-- ✅ Python Course - **GUVI IITM Research Park**
-- ✅ MySQL Bootcamp - **Noble Work Foundation**
-- ✅ Agile Metrics for Project Management
 
 ---
 
