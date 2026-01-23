@@ -2,9 +2,9 @@
   
 # ✨ Yash Lomate ✨
 
-### 🧠 AI Researcher | Computer Vision Engineer | Generative AI Specialist
+### 🧠 AI Researcher | Computer Vision | Generative AI
 
-**MS in Artificial Intelligence @ Northeastern University (3.8 GPA)**
+**MS in Artificial Intelligence @ Northeastern University (4 GPA)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:lomate.y@northeastern.edu)
@@ -19,7 +19,7 @@
 class AIResearcher:
     def __init__(self):
         self.name = "Yash Lomate"
-        self.education = "MS in AI @ Northeastern University (GPA: 3.8)"
+        self.education = "MS in AI @ Northeastern University (GPA: 4)"
         self.research_interests = [
             "Computer Vision & Biometric Systems",
             "Generative AI & RAG Pipelines", 
