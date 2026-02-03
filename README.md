@@ -115,15 +115,15 @@ class AIResearcher:
 <tr>
 <td width="50%">
 
-### 🔐 Face Verification using OpenAI
-**Tech:** OpenAI Vision Models, Face Embeddings
+### 🧬 Tumor Growth Prediction on Longitudinal Scans
+**Tech:** PyTorch, 3D CNN, ConvLSTM, MONAI
 
 ✨ **Highlights:**
-- **97% authentication accuracy**
-- Sub-second processing time
-- Secure contactless identity verification
+- **0.87+ Dice Score** with Recurrent 3D CNN architecture
+- Spatiotemporal modeling of tumor progression from sequential MRI/CT
+- Multi-modal imaging support (T1, T1ce, T2, FLAIR)
 
-[View Repository →](YOUR_PROJECT_LINK)
+[View Repository →](https://github.com/yash-lomate/Tumor-Growth-Prediction-on-Longitudinal-Scans-)
 
 </td>
 <td width="50%">
@@ -136,7 +136,7 @@ class AIResearcher:
 - Real-time Gradio interface
 - Evaluated with MSE/SSIM metrics
 
-[View Repository →](YOUR_PROJECT_LINK)
+[View Repository →](https://huggingface.co/spaces/yash-lomate/image-mosaic-generator)
 
 </td>
 </tr>
@@ -151,20 +151,11 @@ class AIResearcher:
 - Score-level fusion of CNN + minutiae descriptors
 - Published research paper
 
-[View Repository →](YOUR_PROJECT_LINK)
+[View Repository →](https://github.com/yash-lomate/Contactless-Fingerprint-Verification)
 
 </td>
 <td width="50%">
 
-### 🤖 RAG-Powered Data Analytics System
-**Tech:** LangChain, OpenAI, Vector DBs
-
-✨ **Highlights:**
-- Processed **10K+ daily transactions**
-- Multi-agent AI orchestration
-- NLP chatbot integration
-
-[View Repository →](YOUR_PROJECT_LINK)
 
 </td>
 </tr>
@@ -204,6 +195,8 @@ graph TD
 🎓 **Current Academic Focus** (Northeastern University):
 - Applied Programming & Data Processing for AI
 - Advanced Algorithms for ML Systems
+- NLP
+- Machine learning
 
 🔬 **Research Interests:**
 - Deep learning for **biomedical imaging**
