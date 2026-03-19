@@ -113,19 +113,7 @@ class AIResearcher:
 
 <table>
 <tr>
-<td width="50%">
 
-### 🧬 Tumor Growth Prediction on Longitudinal Scans
-**Tech:** PyTorch, 3D CNN, ConvLSTM, MONAI
-
-✨ **Highlights:**
-- **0.87+ Dice Score** with Recurrent 3D CNN architecture
-- Spatiotemporal modeling of tumor progression from sequential MRI/CT
-- Multi-modal imaging support (T1, T1ce, T2, FLAIR)
-
-[View Repository →](https://github.com/yash-lomate/Tumor-Growth-Prediction-on-Longitudinal-Scans-)
-
-</td>
 <td width="50%">
 
 ### 🖼️ Image Mosaic Reconstruction
