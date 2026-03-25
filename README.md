@@ -19,14 +19,14 @@
 class AIResearcher:
     def __init__(self):
         self.name = "Yash Lomate"
-        self.education = "MS in AI @ Northeastern University (GPA: 4)"
+        self.education = "MS in AI @ Northeastern University"
         self.research_interests = [
             "Computer Vision & Biometric Systems",
             "Generative AI & RAG Pipelines", 
             "Deep Learning for Medical Imaging"
         ]
         self.current_focus = [
-            "🔬 CNN-based Biometric Verification (93.75% accuracy)",
+            "🔬 CNN-based Biometric Verification",
             "🤖 Multi-Agent AI with LangChain & OpenAI",
             "🧬 RAG Systems for Knowledge Management"
         ]
