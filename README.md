@@ -4,7 +4,7 @@
 
 ### 🧠 AI Researcher | Computer Vision | Generative AI
 
-**MS in Artificial Intelligence @ Northeastern University (4 GPA)**
+**MS in Artificial Intelligence @ Northeastern University**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:lomate.y@northeastern.edu)
